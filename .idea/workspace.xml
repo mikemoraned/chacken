@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3ec5da4d-6179-476c-af7e-dc7aba68a1fc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="chacken.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="14" selection-start="1182" selection-end="1182" vertical-scroll-proportion="-0.10294118" vertical-offset="766" max-vertical-offset="1650">
+            <state line="38" column="36" selection-start="1026" selection-end="1026" vertical-scroll-proportion="0.21945702" vertical-offset="376" max-vertical-offset="1725">
               <folding />
             </state>
           </provider>
@@ -201,7 +200,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="14" selection-start="1182" selection-end="1182" vertical-scroll-proportion="-0.10294118" vertical-offset="766" max-vertical-offset="1650">
+        <state line="38" column="36" selection-start="1026" selection-end="1026" vertical-scroll-proportion="0.21945702" vertical-offset="376" max-vertical-offset="1725">
           <folding />
         </state>
       </provider>
